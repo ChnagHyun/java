@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="Interface.ch08.sec10.exam02.Bus"/>
+    <fullyQualifiedTypeName name="Interface.ch08.sec10.exam02.Vehicle"/>
+    <fullyQualifiedTypeName name="ch09.sec02.exam01.A.B"/>
+    <fullyQualifiedTypeName name="ch09.sec03.exam01.A.b"/>
+    <fullyQualifiedTypeName name="ch09.sec03.exam02.A.B"/>
+    <fullyQualifiedTypeName name="ch09.sec06.exam03.Button.ClickListener"/>
+    <fullyQualifiedTypeName name="java.awt.Toolkit"/>
+    <fullyQualifiedTypeName name="ch14.sec05.SumThread"/>
+    <fullyQualifiedTypeName name="ch15.sec02.exam01.Board"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+</qualifiedTypeNameHistroy>
